@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Ayesha%20Zafreen%20S&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Backend%20Engineer%20%7C%20Cloud%20Architect%20%7C%20Systems%20Thinker&descAlignY=58&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Ayesha%20Zafreen%20S&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Backend%20Engineer%20%7C%20Cloud%20Architect%20%7C%20DSA%20Enthusiast%20%7C%20IoT%20Systems&descAlignY=58&descSize=18&animation=fadeIn" />
 
 <!-- Typing animation -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=a78bfa&center=true&vCenter=true&multiline=false&width=600&lines=Building+Scalable+Backend+Systems+%F0%9F%9A%80;Crafting+Cloud-Native+Architectures+%E2%98%81%EF%B8%8F;Solving+Problems+One+Commit+at+a+Time+%F0%9F%94%A5;Open+to+Backend+%2F+Cloud+Opportunities+%F0%9F%91%80" alt="Typing SVG" />
@@ -26,14 +26,17 @@
 ```typescript
 const ayesha = {
   stack:    "Node.js · Express · PostgreSQL · Docker · AWS",
-  focus:    "Scalable APIs · Cloud-native systems · Distributed arch",
-  learning: "PostgreSQL · Docker · AWS",
+  focus:    "Scalable APIs · Cloud-native systems · IoT · Distributed arch",
+  learning: "System design · Kubernetes · LLD patterns",
   dsa:      "NeetCode 75 — 46/75 ✅",
   goal:     "Land a high-impact backend / cloud role 🚀",
   fun:      "Debugging at 2AM with lo-fi hits different 🎧",
   outside:  "♟ Chess — I think in systems, on & off the board",
 }
 ```
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -48,7 +51,6 @@ const ayesha = {
 </div>
 
 ---
-
 
 ## 🏆 DSA Progress
 
