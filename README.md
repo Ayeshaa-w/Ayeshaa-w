@@ -24,20 +24,31 @@
 ## 🧠 About Me
 
 ```typescript
-const ayesha: Developer = {
-  name:        "Ayesha Zafreen S",
-  role:        "Backend Engineer & Cloud Enthusiast",
-  focus:       ["Scalable APIs", "Cloud-Native Systems", "Distributed Architecture"],
-  stack:       ["Node.js", "Express", "PostgreSQL", "Docker", "AWS"],
-  currentlyLearning: ["System Design", "Kubernetes Internals", "LLD Patterns"],
-  DSA:    { neetcode75: "46/75 ✅" },
-  goal:        "Land a high-impact Backend/Cloud role 🚀",
-  funFact:     "I debug best at 2AM with lo-fi music 🎧",
-  outside  : "♟ Chess player — I think in systems, on & off the board"
-};
+const ayesha = {
+  stack:    "Node.js · Express · PostgreSQL · Docker · AWS",
+  focus:    "Scalable APIs · Cloud-native systems · Distributed arch",
+  learning: "PostgreSQL · Docker · AWS",
+  dsa:      "NeetCode 75 — 46/75 ✅",
+  goal:     "Land a high-impact backend / cloud role 🚀",
+  fun:      "Debugging at 2AM with lo-fi hits different 🎧",
+  outside:  "♟ Chess — I think in systems, on & off the board",
+}
 ```
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Ayeshaa-w&show_icons=true&theme=tokyonight&border_color=7c3aed&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&hide_border=false&count_private=true&include_all_commits=true" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayeshaa-w&theme=tokyonight&border=7c3aed&background=0d1117&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa" width="49%" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayeshaa-w&layout=compact&theme=tokyonight&border_color=7c3aed&bg_color=0d1117&title_color=a78bfa&text_color=ffffff&hide_border=false&langs_count=8" width="45%" />
+
+</div>
 
 ---
+
 
 ## 🏆 DSA Progress
 
@@ -80,34 +91,20 @@ const ayesha: Developer = {
 
 ---
 
-## 📊 GitHub Stats
+## 🏅 Achievements
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ayeshaa-w&show_icons=true&theme=tokyonight&border_color=7c3aed&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&hide_border=false&count_private=true&include_all_commits=true" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayeshaa-w&theme=tokyonight&border=7c3aed&background=0d1117&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa" width="49%" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayeshaa-w&layout=compact&theme=tokyonight&border_color=7c3aed&bg_color=0d1117&title_color=a78bfa&text_color=ffffff&hide_border=false&langs_count=8" width="45%" />
+| | Achievement | Result |
+|---|---|---|
+| 🏆 | Roartechz '25 | 1st Place · Best end-to-end technical solution |
+| 🥇 | NPTEL — IoT | Gold Medal · 90% aggregate · Top 5% nationally |
+| 🥈 | National Hackathon | 2nd Place · AI Women Safety App — shipped in 24hrs |
+| 💚 | NSS Core Team — GritX 2025 | 300+ attendees & volunteers coordinated |
+| 🎤 | Event Host — Hacktrix | Anchored sessions for 200+ participants |
 
 </div>
 
----
-
-## Achievements
- 
-<div align="center">
-```
-🏆  Roartechz'25          1st Place  ·  Best end-to-end technical solution
-🥇  NPTEL — IoT           Gold Medal ·  90% aggregate · Top 5% nationally
-🥈  National Hackathon    2nd Place  ·  AI Women Safety App — shipped in 24hrs
-💚  NSS Core Team         GritX 2025 ·  300+ attendees & volunteers coordinated
-🎤  Event Host            Hacktrix   ·  Anchored sessions for 200+ participants
-```
- 
-</div>
-<br/>
 ---
 
 ## 📈 Contribution Graph
@@ -118,7 +115,7 @@ const ayesha: Developer = {
 
 ---
 
-## 🎯 2025 Goals
+## 🎯 2026 Goals
 
 - [ ] 🔢 Solve **50+ LeetCode hard** problems
 - [ ] ✅ Complete **NeetCode Blind 75**
@@ -131,7 +128,7 @@ const ayesha: Developer = {
 ## 🌱 Currently Learning
 
 <div align="center">
-  
+
 <img src="https://img.shields.io/badge/PostgreSQL-Advanced%20Querying-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
 
 </div>
@@ -145,13 +142,15 @@ const ayesha: Developer = {
 <a href="https://www.linkedin.com/in/ayesha-zafreen-s/">
   <img src="https://img.shields.io/badge/LinkedIn-Ayesha%20Zafreen%20S-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:ayeshazafreen@email.com">
+<a href="mailto:ayeshaaazz12@gmail.com">
   <img src="https://img.shields.io/badge/Email-Say%20Hello!-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://github.com/Ayeshaa-w">
   <img src="https://img.shields.io/badge/GitHub-Ayeshaa--w-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-[![Chess](https://img.shields.io/badge/Chess-ayeshaas12-1a0533?style=for-the-badge&logo=lichess&logoColor=a78bfa)](https://www.chess.com/member/ayeshaas12)
+<a href="https://www.chess.com/member/ayeshaas12">
+  <img src="https://img.shields.io/badge/Chess-ayeshaas12-1a0533?style=for-the-badge&logo=lichess&logoColor=a78bfa" />
+</a>
 
 <br/><br/>
 
