@@ -15,9 +15,6 @@
 <a href="https://www.linkedin.com/in/ayesha-zafreen-s/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://leetcode.com/u/V4NrKmYuQa/">
-  <img src="https://img.shields.io/badge/LeetCode-V4NrKmYuQa-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-</a>
 <img src="https://img.shields.io/badge/Open%20To%20Work-Backend%20%2F%20Cloud-22c55e?style=for-the-badge&logo=googlechrome&logoColor=white" />
 
 </div>
@@ -33,24 +30,18 @@ const ayesha: Developer = {
   focus:       ["Scalable APIs", "Cloud-Native Systems", "Distributed Architecture"],
   stack:       ["Node.js", "Express", "PostgreSQL", "Docker", "AWS"],
   currentlyLearning: ["System Design", "Kubernetes Internals", "LLD Patterns"],
-  leetcode:    { solved: 46, neetcode75: "46/75 ✅" },
+  DSA:    { neetcode75: "46/75 ✅" },
   goal:        "Land a high-impact Backend/Cloud role 🚀",
   funFact:     "I debug best at 2AM with lo-fi music 🎧",
+  outside  : "♟ Chess player — I think in systems, on & off the board"
 };
 ```
 
 ---
 
-## 🏆 LeetCode & DSA Progress
+## 🏆 DSA Progress
 
 <div align="center">
-
-<!-- LeetCode Stats Card -->
-<a href="https://leetcode.com/u/V4NrKmYuQa/">
-  <img src="https://leetcard.jacoblin.cool/V4NrKmYuQa?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=7c3aed" width="500" alt="LeetCode Stats"/>
-</a>
-
-<br/><br/>
 
 ### 📚 NeetCode Blind 75 Progress
 
@@ -63,7 +54,7 @@ const ayesha: Developer = {
 | 🔗 Linked Lists | `███████░░░` ~70% |
 | 🧩 **Overall Blind 75** | **46 / 75 ✅** |
 
-> 🎯 Target: Complete Blind 75 + 150 total problems before campus placements
+> 🎯 Target: Focus 100+ hard problems before campus placements
 
 </div>
 
@@ -77,13 +68,13 @@ const ayesha: Developer = {
 <img src="https://skillicons.dev/icons?i=nodejs,express,js,ts&theme=dark" />
 
 ### 🗄️ Databases
-<img src="https://skillicons.dev/icons?i=postgres,mysql,redis,mongodb&theme=dark" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark" />
 
 ### ☁️ Cloud & DevOps
-<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=aws,docker,linux&theme=dark" />
 
 ### 🔧 Tools & Version Control
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,bash&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
 
 </div>
 
@@ -104,22 +95,19 @@ const ayesha: Developer = {
 
 ---
 
-## 🏗️ Featured Projects
-
-> 🚧 Projects in progress — check back soon!
-
+## Achievements
+ 
 <div align="center">
-
-| Project | Description | Stack | Status |
-|---|---|---|---|
-| 🔐 **Auth Service** | JWT-based auth microservice with refresh token rotation | Node.js · PostgreSQL · Docker | 🔨 Building |
-| 📦 **File Storage API** | S3-compatible REST API for file upload/download | Express · AWS S3 · MongoDB | 🔨 Building |
-| 📊 **URL Shortener** | High-throughput URL shortener with analytics | Node.js · Redis · PostgreSQL | 🔨 Building |
-
-> 💡 *Tip for recruiters: Star ⭐ the repos once they're up!*
-
+```
+🏆  Roartechz'25          1st Place  ·  Best end-to-end technical solution
+🥇  NPTEL — IoT           Gold Medal ·  90% aggregate · Top 5% nationally
+🥈  National Hackathon    2nd Place  ·  AI Women Safety App — shipped in 24hrs
+💚  NSS Core Team         GritX 2025 ·  300+ attendees & volunteers coordinated
+🎤  Event Host            Hacktrix   ·  Anchored sessions for 200+ participants
+```
+ 
 </div>
-
+<br/>
 ---
 
 ## 📈 Contribution Graph
@@ -132,11 +120,10 @@ const ayesha: Developer = {
 
 ## 🎯 2025 Goals
 
-- [ ] 🔢 Solve **150+ LeetCode** problems
+- [ ] 🔢 Solve **50+ LeetCode hard** problems
 - [ ] ✅ Complete **NeetCode Blind 75**
 - [ ] ☁️ Earn **AWS Cloud Practitioner** certification
 - [ ] 🐳 Deploy a full **Dockerized microservice** to AWS ECS
-- [ ] 🔀 Master **System Design** — HLD + LLD for interviews
 - [ ] 💼 Land my **first Backend/Cloud internship or job**
 
 ---
@@ -144,10 +131,7 @@ const ayesha: Developer = {
 ## 🌱 Currently Learning
 
 <div align="center">
-
-<img src="https://img.shields.io/badge/System%20Design-HLD%20%2B%20LLD-7c3aed?style=for-the-badge&logo=book&logoColor=white" />
-<img src="https://img.shields.io/badge/Kubernetes-Internals%20%26%20CKAD-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  
 <img src="https://img.shields.io/badge/PostgreSQL-Advanced%20Querying-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
 
 </div>
@@ -161,15 +145,13 @@ const ayesha: Developer = {
 <a href="https://www.linkedin.com/in/ayesha-zafreen-s/">
   <img src="https://img.shields.io/badge/LinkedIn-Ayesha%20Zafreen%20S-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://leetcode.com/u/V4NrKmYuQa/">
-  <img src="https://img.shields.io/badge/LeetCode-V4NrKmYuQa-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-</a>
 <a href="mailto:ayeshazafreen@email.com">
   <img src="https://img.shields.io/badge/Email-Say%20Hello!-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://github.com/Ayeshaa-w">
   <img src="https://img.shields.io/badge/GitHub-Ayeshaa--w-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+[![Chess](https://img.shields.io/badge/Chess-ayeshaas12-1a0533?style=for-the-badge&logo=lichess&logoColor=a78bfa)](https://www.chess.com/member/ayeshaas12)
 
 <br/><br/>
 
